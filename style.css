@@ -18,9 +18,11 @@
 }
 
 @media (max-width:768px) {
-.matrix-block {
-  text-align: center;
-}
+
+  .matrix-block {
+    text-align: center;
+  }
+
 }
 .main-page {
   display: block;
